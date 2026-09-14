@@ -1,4 +1,4 @@
-# Mini-RAG
+# Mini-RAG 轻量级知识库智能问答系统
 
 一个基于 Flask、TF-IDF 和 DeepSeek API 的本地知识库问答应用。
 
